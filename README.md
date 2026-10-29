@@ -13,6 +13,13 @@ Core architect behind **[Kovitel](https://kovitel.com/)** — Vietnam's premier 
 
 ---
 
+### 🛡️ Security & Bug Bounty Research
+* 🎯 **Bug Bounty Hunter:** Active researcher on [HackenProof (@takayui89)](https://hackenproof.com/hackers/takayui89).
+* 🔍 **Focus Areas:** Web3 / Smart Contract Security (Solidity, Foundry, EVM Architecture), Web Application & API Security.
+* ⚡ **Methodology:** Deep-dive logic flaw analysis, access control verification, and automated invariant testing.
+
+---
+
 ### 🛠️ Open-Source Ecosystem & MCP Servers
 
 * **[kovitel-vietnam-esim-mcp](https://github.com/iZenDeveloper/kovitel-vietnam-esim-mcp)** — Official Model Context Protocol (MCP) server for automated eSIM plan discovery, real-time data balance querying, and nationwide 5G coverage validation. Rated **Grade A** on Glama.
@@ -21,6 +28,7 @@ Core architect behind **[Kovitel](https://kovitel.com/)** — Vietnam's premier 
 ---
 
 ### 💻 Tech Stack & Domains
+* **Security & Web3:** Smart Contract Auditing (Solidity, Foundry, Hardhat, Slither), Responsible Disclosure, OWASP Top 10.
 * **Telecommunications:** 5G Standalone (SA) Core Architecture, eSIM (RSP/SM-DP+) Provisioning, APN Engineering (`v-internet`), Mobile Roaming Gateway Optimization.
 * **AI & Agentic Systems:** Anthropic Model Context Protocol (MCP), Autonomous Browser Automation, Agent Orchestration.
 * **Web & Cloud:** TypeScript / Node.js, Next.js, Cloudflare Workers, Edge Caching, RESTful & GraphQL APIs.
@@ -29,6 +37,7 @@ Core architect behind **[Kovitel](https://kovitel.com/)** — Vietnam's premier 
 
 ### 📬 Connect & Collaborate
 * 🌐 **Website:** [https://kovitel.com](https://kovitel.com/)
+* 🛡️ **HackenProof:** [https://hackenproof.com/hackers/takayui89](https://hackenproof.com/hackers/takayui89)
 * 📧 **Outreach & Partnerships:** `kovitel.outreach@outlook.com` / `contact@kovitel.com`
 * 📍 **Location:** Vietnam (Operating nationwide coverage across all 63 provinces)
 
