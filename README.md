@@ -1,6 +1,7 @@
 # Hi there, I'm ZenDeveloper 👋 🇻🇳
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/danielng66/"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Nguyen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://kovitel.com"><img src="https://img.shields.io/badge/Telecommunications-Viettel_5G_Core-ED1C24?style=flat-square&logo=tower-broadcast&logoColor=white" alt="Telecom"></a>
   <a href="https://github.com/iZenDeveloper/kovitel-vietnam-esim-mcp"><img src="https://img.shields.io/badge/AI_Ecosystem-Model_Context_Protocol-4A90E2?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"></a>
   <a href="https://hackenproof.com/hackers/takayui89"><img src="https://img.shields.io/badge/Security_Researcher-HackenProof-FF6B00?style=flat-square" alt="HackenProof"></a>
@@ -54,6 +55,7 @@ Core architect behind **[Kovitel](https://kovitel.com/)** — Vietnam's premier 
 
 ### 📬 Connect & Collaborate
 
+* 💼 **LinkedIn:** [linkedin.com/in/danielng66](https://www.linkedin.com/in/danielng66/)
 * 🌐 **Website:** [https://kovitel.com](https://kovitel.com/)
 * 🛡️ **HackenProof:** [hackenproof.com/hackers/takayui89](https://hackenproof.com/hackers/takayui89)
 * 📧 **Outreach & Partnerships:** `kovitel.outreach@outlook.com` · `contact@kovitel.com`
